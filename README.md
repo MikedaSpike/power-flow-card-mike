@@ -6,6 +6,10 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/ulic75/power-flow-card/total?style=flat-square)
 [![ko-fi support](https://img.shields.io/badge/support-me-ff5e5b?style=flat-square&logo=ko-fi)](https://ko-fi.com/ulic75)
 
+## Archived
+
+This project has been unmaintained for several years now.  You might want to consider [Flixlix Cards](https://github.com/flixlix/flixlix-cards) as an alternative.
+
 ## Goal/Scope
 
 Display current power, gas, and water usage in a display that matches the the official Energy Distribution card included with [Home Assistant](https://home-assistant.io/) as much as possible. As such, additional features that fall outside of that scope will not be added.
