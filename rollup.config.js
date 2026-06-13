@@ -21,6 +21,7 @@ const serveOptions = {
 export default [
   {
     input: "src/power-flow-card.ts",
+    context: 'window',
     output: [
       {
         dir: "./dist",
