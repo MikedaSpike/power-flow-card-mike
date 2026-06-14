@@ -1,8 +1,12 @@
 # Power Flow Card Mike (Dual Battery Fork)
 
-[![GitHub release](https://img.shields.io/github/v/release/MikedaSpike/power-flow-card-mike?style=flat-square)](https://github.com/MikedaSpike/power-flow-card-mike/releases)
-[![GitHub license](https://img.shields.io/github/license/MikedaSpike/power-flow-card-mike?style=flat-square)](https://github.com/MikedaSpike/power-flow-card-mike/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/MikedaSpike/power-flow-card-mike?style=flat-square)](https://github.com/MikedaSpike/power-flow-card-mike/commits/main)
+![Latest Release](https://img.shields.io/github/v/release/MikedaSpike/power-flow-card-mike)
+![Downloads](https://img.shields.io/github/downloads/MikedaSpike/power-flow-card-mike/total)
+![License](https://img.shields.io/github/license/MikedaSpike/power-flow-card-mike)
+![Issues](https://img.shields.io/github/issues/MikedaSpike/power-flow-card-mike)
+![Last Commit](https://img.shields.io/github/last-commit/MikedaSpike/power-flow-card-mike)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MikedaSpike/power-flow-card-mike)
+![Stars](https://img.shields.io/github/stars/MikedaSpike/power-flow-card-mike)
 
 ---
 
