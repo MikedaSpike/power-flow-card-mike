@@ -272,13 +272,12 @@ export class PowerFlowCard extends LitElement {
     let battery2ToGrid: null | number = null;
 
     if (solarConsumption !== null && solarConsumption < 0) {
-      const totalDeficit = Math.abs(solarConsumption);
       if (hasBattery) {
-        batteryFromGrid = Math.min(totalDeficit, totalFromGrid);
+        batteryFromGrid = Math.min(totalBatteryIn || 0, totalFromGrid);
       }
       if (hasBattery2) {
-        const remainingDeficit = totalDeficit - (batteryFromGrid ?? 0);
-        battery2FromGrid = Math.min(remainingDeficit, Math.max(0, totalFromGrid - (batteryFromGrid ?? 0)));
+        const remainingGrid = Math.max(0, totalFromGrid - (batteryFromGrid ?? 0));
+        battery2FromGrid = Math.min(totalBattery2In || 0, remainingGrid);
       }
       solarConsumption = 0;
     }
