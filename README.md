@@ -10,6 +10,18 @@
 
 ---
 
+## Table of Contents
+- [About this Project](#about-this-project)
+- [Preview](#preview)
+- [Installation (Manual)](#installation-manual)
+  - [Configuration Options](#configuration-options)
+  - [Example Configuration](#example-configuration)
+- [Development / Compiling from Source](#development--compiling-from-source)
+- [Credits](#credits)
+- [License](#license)
+
+---
+  
 ## About this Project
 This is a maintained fork of the original [Power Flow Card](https://github.com/ulic75/power-flow-card). 
 
@@ -92,6 +104,16 @@ entities:
   water: sensor.water_usage_sensor
 
 ```
+## Development / Compiling from Source
+
+If you want to modify the code and compile the custom card yourself, you will need to have [Node.js](https://nodejs.org/) installed on your computer.
+
+1. **Download the source code:** Clone this repository using git, or download the ZIP file from GitHub and extract it to a folder.
+2. **Open your terminal:** Navigate to the root folder of the downloaded project.
+3. **Install dependencies (One-time setup):**
+   Run the following command to download all required packages. You only need to do this once.
+   ```bash
+   npm install
 
 ## Credits
 
