@@ -115,12 +115,22 @@ If you want to modify the code and compile the custom card yourself, you will ne
    ```bash
    npm install
 
+---
 ## Credits
 
 Based on the original [Power Flow Card](https://github.com/ulic75/power-flow-card). All credits for the design and base logic go to the original author and the [Home Assistant](https://www.home-assistant.io/) team.
 
+---
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
+---
+### Support my projects
+  
+Do you find my work for Pinball or my other projects useful? A coffee (or a pinball part) is always greatly appreciated!
+
+<a href="https://www.buymeacoffee.com/q5dlxoaayq">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="160" />
+</a>
+
